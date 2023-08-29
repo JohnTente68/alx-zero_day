@@ -1,1 +1,1 @@
-My first readme
+Hello, I am Makume an ALX SE student
